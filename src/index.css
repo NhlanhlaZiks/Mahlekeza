@@ -62,13 +62,13 @@ main {
 }
 
 .weather-app-value {
-  font-size: 80px;
   font-weight: bolder;
+  font-size: 80px;
 }
 
 .weather-app-icon {
-  font-size: 44px;
-  margin-top: 19px;
+  height: 88px;
+  width: 88px;
 }
 
 .degrees {
