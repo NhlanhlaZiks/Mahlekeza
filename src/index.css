@@ -1,8 +1,8 @@
 body {
-  background-color: rgb(238, 247, 247);
+  background-color: #f3ebf1;
 }
 a {
-  color: #885df1;
+  color: #f15dcc;
 }
 
 .weather-app {
@@ -29,7 +29,7 @@ header {
 }
 
 .submit-button {
-  background: #885df1;
+  background: #f15dcc;
   padding: 15px 20px;
   margin-left: 5px;
   border: none;
@@ -86,8 +86,10 @@ main {
 }
 
 .weather-forecast-icon {
-  text-align: center;
-  font-size: 32px;
+  width: 60px;
+  height: 60px;
+  display: block;
+  margin: 0 auto;
 }
 
 .weather-forecast-temperatures {
